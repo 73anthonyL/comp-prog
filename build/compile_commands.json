@@ -1,0 +1,488 @@
+[
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/ArchiveCompProg/248/248.cpp.o -c /Users/anthony/Programming/ArchiveCompProg/248/248.cpp",
+  "file": "/Users/anthony/Programming/ArchiveCompProg/248/248.cpp",
+  "output": "CMakeFiles/anthony.dir/ArchiveCompProg/248/248.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/ArchiveCompProg/EntertainmentInMAC/EntertainmentInMAC.cpp.o -c /Users/anthony/Programming/ArchiveCompProg/EntertainmentInMAC/EntertainmentInMAC.cpp",
+  "file": "/Users/anthony/Programming/ArchiveCompProg/EntertainmentInMAC/EntertainmentInMAC.cpp",
+  "output": "CMakeFiles/anthony.dir/ArchiveCompProg/EntertainmentInMAC/EntertainmentInMAC.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/ArchiveCompProg/FebContest/Moorbles.cpp.o -c /Users/anthony/Programming/ArchiveCompProg/FebContest/Moorbles.cpp",
+  "file": "/Users/anthony/Programming/ArchiveCompProg/FebContest/Moorbles.cpp",
+  "output": "CMakeFiles/anthony.dir/ArchiveCompProg/FebContest/Moorbles.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/ArchiveCompProg/FebContest/MoorblesSubtask.cpp.o -c /Users/anthony/Programming/ArchiveCompProg/FebContest/MoorblesSubtask.cpp",
+  "file": "/Users/anthony/Programming/ArchiveCompProg/FebContest/MoorblesSubtask.cpp",
+  "output": "CMakeFiles/anthony.dir/ArchiveCompProg/FebContest/MoorblesSubtask.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/ArchiveCompProg/FebContest/TestTubes.cpp.o -c /Users/anthony/Programming/ArchiveCompProg/FebContest/TestTubes.cpp",
+  "file": "/Users/anthony/Programming/ArchiveCompProg/FebContest/TestTubes.cpp",
+  "output": "CMakeFiles/anthony.dir/ArchiveCompProg/FebContest/TestTubes.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/ArchiveCompProg/FruitFeast/FruitFeast.cpp.o -c /Users/anthony/Programming/ArchiveCompProg/FruitFeast/FruitFeast.cpp",
+  "file": "/Users/anthony/Programming/ArchiveCompProg/FruitFeast/FruitFeast.cpp",
+  "output": "CMakeFiles/anthony.dir/ArchiveCompProg/FruitFeast/FruitFeast.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/ArchiveCompProg/FruitFeast/FruitFeastKnapsack.cpp.o -c /Users/anthony/Programming/ArchiveCompProg/FruitFeast/FruitFeastKnapsack.cpp",
+  "file": "/Users/anthony/Programming/ArchiveCompProg/FruitFeast/FruitFeastKnapsack.cpp",
+  "output": "CMakeFiles/anthony.dir/ArchiveCompProg/FruitFeast/FruitFeastKnapsack.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/ArchiveCompProg/HaybaleFeast.cpp/HaybaleFeast.cpp.o -c /Users/anthony/Programming/ArchiveCompProg/HaybaleFeast.cpp/HaybaleFeast.cpp",
+  "file": "/Users/anthony/Programming/ArchiveCompProg/HaybaleFeast.cpp/HaybaleFeast.cpp",
+  "output": "CMakeFiles/anthony.dir/ArchiveCompProg/HaybaleFeast.cpp/HaybaleFeast.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/ArchiveCompProg/LaneSwitching/LaneSwitching.cpp.o -c /Users/anthony/Programming/ArchiveCompProg/LaneSwitching/LaneSwitching.cpp",
+  "file": "/Users/anthony/Programming/ArchiveCompProg/LaneSwitching/LaneSwitching.cpp",
+  "output": "CMakeFiles/anthony.dir/ArchiveCompProg/LaneSwitching/LaneSwitching.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/ArchiveCompProg/LemonadeLine/LemonadeLine.cpp.o -c /Users/anthony/Programming/ArchiveCompProg/LemonadeLine/LemonadeLine.cpp",
+  "file": "/Users/anthony/Programming/ArchiveCompProg/LemonadeLine/LemonadeLine.cpp",
+  "output": "CMakeFiles/anthony.dir/ArchiveCompProg/LemonadeLine/LemonadeLine.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/ArchiveCompProg/MahmoudAndADictionary/MahmoudAndADictionary.cpp.o -c /Users/anthony/Programming/ArchiveCompProg/MahmoudAndADictionary/MahmoudAndADictionary.cpp",
+  "file": "/Users/anthony/Programming/ArchiveCompProg/MahmoudAndADictionary/MahmoudAndADictionary.cpp",
+  "output": "CMakeFiles/anthony.dir/ArchiveCompProg/MahmoudAndADictionary/MahmoudAndADictionary.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/ArchiveCompProg/MooNetwork/MooNetwork.cpp.o -c /Users/anthony/Programming/ArchiveCompProg/MooNetwork/MooNetwork.cpp",
+  "file": "/Users/anthony/Programming/ArchiveCompProg/MooNetwork/MooNetwork.cpp",
+  "output": "CMakeFiles/anthony.dir/ArchiveCompProg/MooNetwork/MooNetwork.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/ArchiveCompProg/Snakes/Snakes.cpp.o -c /Users/anthony/Programming/ArchiveCompProg/Snakes/Snakes.cpp",
+  "file": "/Users/anthony/Programming/ArchiveCompProg/Snakes/Snakes.cpp",
+  "output": "CMakeFiles/anthony.dir/ArchiveCompProg/Snakes/Snakes.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/A_Creating_Words.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/A_Creating_Words.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/A_Creating_Words.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/A_Creating_Words.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/A_Guess_the_Maximum.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/A_Guess_the_Maximum.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/A_Guess_the_Maximum.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/A_Guess_the_Maximum.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/A_Powered_Addition.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/A_Powered_Addition.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/A_Powered_Addition.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/A_Powered_Addition.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/A_Strange_Splitting.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/A_Strange_Splitting.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/A_Strange_Splitting.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/A_Strange_Splitting.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/A_Turtle_and_Piggy_Are_Playing_a_Game.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/A_Turtle_and_Piggy_Are_Playing_a_Game.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/A_Turtle_and_Piggy_Are_Playing_a_Game.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/A_Turtle_and_Piggy_Are_Playing_a_Game.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/B_Large_Addition.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/B_Large_Addition.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/B_Large_Addition.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/B_Large_Addition.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/B_Maximum_Multiple_Sum.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/B_Maximum_Multiple_Sum.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/B_Maximum_Multiple_Sum.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/B_Maximum_Multiple_Sum.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/B_Password.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/B_Password.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/B_Password.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/B_Password.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/B_Turtle_and_an_Infinite_Sequence.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/B_Turtle_and_an_Infinite_Sequence.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/B_Turtle_and_an_Infinite_Sequence.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/B_Turtle_and_an_Infinite_Sequence.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/B_XOR_Sequences.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/B_XOR_Sequences.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/B_XOR_Sequences.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/B_XOR_Sequences.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/BitwiseOperatorsPractice.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/BitwiseOperatorsPractice.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/BitwiseOperatorsPractice.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/BitwiseOperatorsPractice.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Book_Shop.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Book_Shop.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Book_Shop.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Book_Shop.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/C_1_Magnitude_Easy_Version.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/C_1_Magnitude_Easy_Version.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/C_1_Magnitude_Easy_Version.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/C_1_Magnitude_Easy_Version.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/C_2_Magnitude_Hard_Version.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/C_2_Magnitude_Hard_Version.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/C_2_Magnitude_Hard_Version.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/C_2_Magnitude_Hard_Version.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/C_Dijkstra.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/C_Dijkstra.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/C_Dijkstra.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/C_Dijkstra.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/C_Earning_on_Bets.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/C_Earning_on_Bets.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/C_Earning_on_Bets.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/C_Earning_on_Bets.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/C_Good_Prefixes.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/C_Good_Prefixes.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/C_Good_Prefixes.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/C_Good_Prefixes.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/C_Number_of_Ways.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/C_Number_of_Ways.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/C_Number_of_Ways.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/C_Number_of_Ways.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Coin_Combinations_I.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Coin_Combinations_I.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Coin_Combinations_I.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Coin_Combinations_I.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Coin_Combinations_II.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Coin_Combinations_II.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Coin_Combinations_II.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Coin_Combinations_II.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/D_Buying_gifts.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/D_Buying_gifts.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/D_Buying_gifts.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/D_Buying_gifts.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/D_Flowers.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/D_Flowers.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/D_Flowers.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/D_Flowers.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/D_Manhattan_Circle.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/D_Manhattan_Circle.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/D_Manhattan_Circle.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/D_Manhattan_Circle.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/D_Multiplication_Table.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/D_Multiplication_Table.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/D_Multiplication_Table.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/D_Multiplication_Table.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/D_Solve_The_Maze.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/D_Solve_The_Maze.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/D_Solve_The_Maze.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/D_Solve_The_Maze.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/D_Valid_BFS.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/D_Valid_BFS.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/D_Valid_BFS.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/D_Valid_BFS.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/D_Xenia_and_Bit_Operations.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/D_Xenia_and_Bit_Operations.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/D_Xenia_and_Bit_Operations.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/D_Xenia_and_Bit_Operations.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Dice_Combinations.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Dice_Combinations.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Dice_Combinations.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Dice_Combinations.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/E_Data_Structures_Fan.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/E_Data_Structures_Fan.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/E_Data_Structures_Fan.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/E_Data_Structures_Fan.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/E_Mahmoud_and_Ehab_and_the_function.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/E_Mahmoud_and_Ehab_and_the_function.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/E_Mahmoud_and_Ehab_and_the_function.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/E_Mahmoud_and_Ehab_and_the_function.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/E_Secret_Box.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/E_Secret_Box.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/E_Secret_Box.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/E_Secret_Box.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/F_1_Survival_of_the_Weakest_easy_version.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/F_1_Survival_of_the_Weakest_easy_version.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/F_1_Survival_of_the_Weakest_easy_version.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/F_1_Survival_of_the_Weakest_easy_version.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/F_Consecutive_Subsequence.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/F_Consecutive_Subsequence.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/F_Consecutive_Subsequence.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/F_Consecutive_Subsequence.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/F_Final_Boss.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/F_Final_Boss.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/F_Final_Boss.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/F_Final_Boss.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/F_subset_sum_K_with_Add_and_Erase.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/F_subset_sum_K_with_Add_and_Erase.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/F_subset_sum_K_with_Add_and_Erase.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/F_subset_sum_K_with_Add_and_Erase.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/H_1_Maximize_the_Largest_Component_Easy_Version.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/H_1_Maximize_the_Largest_Component_Easy_Version.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/H_1_Maximize_the_Largest_Component_Easy_Version.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/H_1_Maximize_the_Largest_Component_Easy_Version.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Meetings.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Meetings.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Meetings.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Meetings.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Minimizing_Coins.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Minimizing_Coins.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Minimizing_Coins.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Minimizing_Coins.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Money_Sums.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Money_Sums.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Money_Sums.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Money_Sums.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/MultipleOf2019.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/MultipleOf2019.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/MultipleOf2019.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/MultipleOf2019.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/NuskeVsPhantomThnook.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/NuskeVsPhantomThnook.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/NuskeVsPhantomThnook.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/NuskeVsPhantomThnook.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/PackingUnderRangeRegulations.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/PackingUnderRangeRegulations.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/PackingUnderRangeRegulations.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/PackingUnderRangeRegulations.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/PaintingTheBarn.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/PaintingTheBarn.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/PaintingTheBarn.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/PaintingTheBarn.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Problem_1_Bessla_Motors.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Problem_1_Bessla_Motors.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Problem_1_Bessla_Motors.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Problem_1_Bessla_Motors.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Problem_1_Closest_Cow_Wins.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Problem_1_Closest_Cow_Wins.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Problem_1_Closest_Cow_Wins.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Problem_1_Closest_Cow_Wins.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/SnowBoots.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/SnowBoots.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/SnowBoots.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/SnowBoots.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Stick_Divisions.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Stick_Divisions.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Stick_Divisions.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Stick_Divisions.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Subarray_Sums_II.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Subarray_Sums_II.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Subarray_Sums_II.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Subarray_Sums_II.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Two_Sets_II.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Two_Sets_II.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 1/Two_Sets_II.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_1/Two_Sets_II.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/A_Alice_and_Books.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/A_Alice_and_Books.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/A_Alice_and_Books.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/A_Alice_and_Books.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/A_Little_Nikita.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/A_Little_Nikita.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/A_Little_Nikita.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/A_Little_Nikita.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/B_Binary_Colouring.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/B_Binary_Colouring.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/B_Binary_Colouring.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/B_Binary_Colouring.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/B_New_Bakery.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/B_New_Bakery.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/B_New_Bakery.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/B_New_Bakery.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/B_The_least_round_way.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/B_The_least_round_way.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/B_The_least_round_way.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/B_The_least_round_way.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/C_George_and_Job.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/C_George_and_Job.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/C_George_and_Job.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/C_George_and_Job.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/C_Longest_Regular_Bracket_Sequence.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/C_Longest_Regular_Bracket_Sequence.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/C_Longest_Regular_Bracket_Sequence.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/C_Longest_Regular_Bracket_Sequence.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/C_Manhattan_Permutations.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/C_Manhattan_Permutations.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/C_Manhattan_Permutations.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/C_Manhattan_Permutations.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/C_Mortal_Kombat_Tower.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/C_Mortal_Kombat_Tower.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/C_Mortal_Kombat_Tower.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/C_Mortal_Kombat_Tower.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/C_The_Sports_Festival.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/C_The_Sports_Festival.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/C_The_Sports_Festival.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/C_The_Sports_Festival.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/C_The_Values_You_Can_Make.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/C_The_Values_You_Can_Make.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/C_The_Values_You_Can_Make.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/C_The_Values_You_Can_Make.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/D_Caesar_s_Legions.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/D_Caesar_s_Legions.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/D_Caesar_s_Legions.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/D_Caesar_s_Legions.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/D_Carousel.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/D_Carousel.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/D_Carousel.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/D_Carousel.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/D_Elections.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/D_Elections.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/D_Elections.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/D_Elections.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/F_Ant_colony.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/F_Ant_colony.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/F_Ant_colony.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/F_Ant_colony.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/Problem_2_Fruit_Feast.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/Problem_2_Fruit_Feast.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/Problem_2_Fruit_Feast.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/Problem_2_Fruit_Feast.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/Problem_3_Drought.cpp.o -c \"/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/Problem_3_Drought.cpp\"",
+  "file": "/Users/anthony/Programming/USACO Camp 2025/Summer Week 2/Problem_3_Drought.cpp",
+  "output": "CMakeFiles/anthony.dir/USACO_Camp_2025/Summer_Week_2/Problem_3_Drought.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /Users/anthony/Programming/build/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "file": "/Users/anthony/Programming/build/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "output": "CMakeFiles/anthony.dir/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp.o"
+},
+{
+  "directory": "/Users/anthony/Programming/build",
+  "command": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14  -I/Users/anthony/Programming/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/anthony.dir/test.cpp.o -c /Users/anthony/Programming/test.cpp",
+  "file": "/Users/anthony/Programming/test.cpp",
+  "output": "CMakeFiles/anthony.dir/test.cpp.o"
+}
+]
