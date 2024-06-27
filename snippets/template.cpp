@@ -17,7 +17,13 @@ using ll = long long;
     
 int n;
 void solve() {
-    int a; cin >> a; cout << a;
+    cin >> n;
+    vector<int> v(n);
+    for (int i = 0; i < n; i++) {
+        cin >> v[i];
+    }
+
+    int ans = 0;
 }
 
 int main() {
