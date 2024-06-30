@@ -12,8 +12,9 @@
 #include <bitset>
 using namespace std;
 using ll = long long;
+using pcc = pair<char, char>;
 #define dbg(v) \
-    cout << #v << " = " << (v) << ", ";
+    cerr << #v << " = " << (v) << "\n";
     
 string s;
 int k;
@@ -21,32 +22,33 @@ void solve() {
     cin >> s;
     cin >> k; 
     
-    vector<int> m(26);
-
+    map<char, int> m;
+    vector<pcc> grp(14);
     int ct = 1;
     for (int i = 0; i < k; i++) {
         char a, b; cin >> a >> b;
-        m[a-'a'] = ct;
-        m[b-'a'] = ct;
+        m[a] = ct;
+        m[b] = ct;
+        if (a > b) swap(a, b);
+        grp[ct] = make_pair(a, b);
         ct++;
     }
     
-    int last = m[s[0]];
-    int len = 1;
     int ans = 0;
+    int lastid = m[s[0]];
+    int fct = 0, sct = 0;
     for (int i = 1; i < s.size(); i++) {
-        if (m[s[i]] != last) {
-            // reset len and account for how many must be deleted
-            ans += (len/2);
-            len = 1;
+        if (m[s[i]] != lastid)  {
+            ans += min(fct, sct); 
+            fct = 0, sct = 0;
         }
         else {
-            len++;
+            if (lastid) {
+                
+            }
         }
-        last = m[s[i]];
+        lastid = m[s[i]];
     }
-
-    cout << ans << "\n";
 }
 
 int main() {
@@ -59,7 +61,4 @@ int main() {
 	}
 }
 
-/*
- * split the string into segments where the segments have all the characters belong to the same class of strings
- * for each class of strings, if they are even, you delete len/2. if they are odd, you delete len/2 as well
- */
+// go through all segments
