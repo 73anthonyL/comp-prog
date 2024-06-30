@@ -14,7 +14,8 @@ using namespace std;
 using ll = long long;
 #define dbg(v) \
     cerr << #v << " = " << (v) << "\n";
-    
+#define _GLIBCXX_DEBUG
+
 int n;
 void solve() {
     cin >> n;
