@@ -13,17 +13,12 @@
 using namespace std;
 using ll = long long;
 #define dbg(v) \
-    cout << #v << " = " << (v) << ", ";
+    cerr << #v << " = " << (v) << "\n";
     
 int n;
 void solve() {
     cin >> n;
-    vector<int> v(n);
-    for (int i = 0; i < n; i++) {
-        cin >> v[i];
-    }
 
-    int ans = 0;
 }
 
 int main() {
