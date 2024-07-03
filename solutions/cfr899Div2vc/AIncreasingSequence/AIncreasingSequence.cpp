@@ -14,23 +14,24 @@ using namespace std;
 using ll = long long;
 #define dbg(v) \
     cerr << #v << " = " << (v) << "\n";
-    
+#define _GLIBCXX_DEBUG
+
 int n;
 void solve() {
     cin >> n;
-    vector<int> flh(n+1);
-    for (int i = 1; i <= n; i++) {
-        cin >> flh[i];
+    int prev = 0;
+    for (int i = 0; i < n; i++) {
+        int a; cin >> a; 
+        // find number greater than prev and does not equal this current number
+        if (a == prev+1) {
+            prev += 2;
+        }
+        else {
+            prev++;
+        }
     }
 
-    vector<int> dp(n+1);
-    dp[n] = flh[n];
-
-    for (int i = n-1; i >= 1; i--) {
-        dp[i] = max(dp[i+1]+1, flh[i]);
-    }
-    
-    cout << dp[1] << "\n";
+    cout << prev << "\n";
 }
 
 int main() {

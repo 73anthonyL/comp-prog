@@ -14,23 +14,30 @@ using namespace std;
 using ll = long long;
 #define dbg(v) \
     cerr << #v << " = " << (v) << "\n";
-    
+#define _GLIBCXX_DEBUG
+
 int n;
 void solve() {
     cin >> n;
-    vector<int> flh(n+1);
+    vector<int> arr(n+1);
     for (int i = 1; i <= n; i++) {
-        cin >> flh[i];
+        cin >> arr[i];
+    }
+    sort(arr.begin(), arr.end());
+
+    ll moves = 0;
+    for (int i = (n+1)/2; i <= n; i++) {
+        if (i == ((n+1)/2)) {
+            arr[i]++;
+            continue;
+        }
+        if (arr[i] < arr[i-1]) {
+            moves += (arr[i-1]-arr[i]);
+            arr[i] = arr[i-1];
+        }
     }
 
-    vector<int> dp(n+1);
-    dp[n] = flh[n];
-
-    for (int i = n-1; i >= 1; i--) {
-        dp[i] = max(dp[i+1]+1, flh[i]);
-    }
-    
-    cout << dp[1] << "\n";
+    cout << moves+1 << "\n";
 }
 
 int main() {
@@ -43,3 +50,4 @@ int main() {
 		solve();
 	}
 }
+
