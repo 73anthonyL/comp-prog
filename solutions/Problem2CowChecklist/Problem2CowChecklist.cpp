@@ -48,11 +48,14 @@ void solve() {
         guernseys[i] = mp(x, y);
     }
     
-    for (int i = 0; i <= g; i++) {
+    for (int i = 1; i <= g; i++) {
         dp[0][i][0] = dp[0][i][1] = INF;
+        dp[i][0][1] = INF;
     }
+    dp[1][1][0] = INF;
+    dp[1][1][1] = dist(holsteins[1], guernseys[1]);
     for (int hdone = 1; hdone <= h; hdone++) {
-        for (int gdone = 0; gdone <= g; gdone++) {
+        for (int gdone = 1; gdone <= g; gdone++) {
             // 0 means that @h cow
             dp[hdone][gdone][0] = min(
                     dp[hdone-1][gdone][0]+dist(holsteins[hdone-1], holsteins[hdone]),
