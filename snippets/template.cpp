@@ -21,6 +21,8 @@ using ll = long long;
     cerr << #v << " = " << (v) << "\n";
 #define _GLIBCXX_DEBUG
 
+#define mp make_pair
+
 int n;
 void solve() {
     cin >> n;
