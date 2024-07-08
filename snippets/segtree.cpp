@@ -1,4 +1,5 @@
 const int MAXN = 100001;
+array<int, MAXN> a;
 int t[4*MAXN];
 
 void build(array<int, MAXN> &a, int v, int tl, int tr) {
