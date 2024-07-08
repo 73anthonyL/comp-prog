@@ -29,7 +29,7 @@ const int MAXN = 100001;
 int t[4*MAXN];
 array<int, MAXN> proc;
 
-void build(array<int, MAXN> a, int v, int tl, int tr) {
+void build(array<int, MAXN> &a, int v, int tl, int tr) {
     if (tl == tr) {
         t[v] = a[tl];
     } else {
@@ -80,7 +80,7 @@ void solve() {
     }
     
     sort(a.begin(), a.end(), greater<pii>());
-
+    
     int ans = 0;
     for (int i = 0; i < n; i++) {
         int totalProcessed = i;

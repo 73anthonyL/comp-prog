@@ -1,7 +1,7 @@
 const int MAXN = 100001;
 int t[4*MAXN];
 
-void build(int a[], int v, int tl, int tr) {
+void build(array<int, MAXN> &a, int v, int tl, int tr) {
     if (tl == tr) {
         t[v] = a[tl];
     } else {
