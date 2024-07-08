@@ -13,7 +13,8 @@ void build(int a[], int v, int tl, int tr) {
 }
 
 int sum(int v, int tl, int tr, int l, int r) {
-		assert(l <= r);
+    if (l > r) 
+        return 0;
     if (l == tl && r == tr) {
         return t[v];
     }
