@@ -44,5 +44,5 @@ int sum(int l, int r) {
 }
 
 void update(int pos, int new_val) {
-    update(1, 0, n, pos, new_val);
+    update(1, 0, n-1, pos, new_val);
 }
