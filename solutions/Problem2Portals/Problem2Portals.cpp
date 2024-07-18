@@ -1,4 +1,3 @@
-#define _GLIBCXX_DEBUG
 #include <iostream>
 #include <algorithm>
 #include <vector>
@@ -20,6 +19,7 @@ using ll = long long;
 
 #define dbg(v) \
     cerr << #v << " = " << (v) << "\n";
+#define _GLIBCXX_DEBUG
 
 #define mp make_pair
 
