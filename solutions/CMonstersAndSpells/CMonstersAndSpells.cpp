@@ -29,7 +29,7 @@ void solve() {
     for (int i = 0; i < n; i++) {
         cin >> appears[i];
     }
-
+    
     for (int i = 0; i < n; i++) {
         cin >> health[i];
     }
