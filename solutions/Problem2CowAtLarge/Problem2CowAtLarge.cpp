@@ -17,6 +17,7 @@
 
 using namespace std;
 using ll = long long;
+using pii = pair<int, int>;
 
 #define dbg(v) \
     cerr << #v << " = " << (v) << "\n";
@@ -29,16 +30,21 @@ int n, k;
 vector<int> adj[MAXN];
 int mld[MAXN], bessieDist[MAXN]; // minimum leaf distance
 int dp[MAXN];
-queue<int> q;
+queue<pii> q;
 
 // the dfs that computes the minimum leaf distance
 int dfs_MLD(int v, int p) {
-    cout << "mld call" << "\n";
-    for (auto x : adj[v]) {
-        if (x != p) {
-            mld[v] = min(mld[v], dfs_MLD(x, v)+1);
+    if (adj[v].size() == 1) {
+        mld[v] = 0;
+    }
+    else {
+        for (auto x : adj[v]) {
+            if (x != p) {
+                mld[v] = min(mld[v], dfs_MLD(x, v)+1);
+            }
         }
     }
+    //cerr << "mininum leaf distance of vertex " << v << " : " << mld[v] << "\n";
     return mld[v]; 
 }
 
@@ -54,6 +60,7 @@ int dfs_COVERAGE(int v, int p) {
     else {
         dp[v] = 1;
     }
+    //cerr << dp[v] << " many FJs does it take to cover " << v << " and its children" << "\n";
     return dp[v];
 }
 
@@ -63,18 +70,20 @@ void solve() {
         int a, b; cin >> a >> b; a--, b--;
         adj[a].emplace_back(b);
         adj[b].emplace_back(a);
+        mld[i] = INT32_MAX;
     }
+    mld[n-1] = INT32_MAX;
 
     mld[k] = dfs_MLD(k, -1);
-    q.push(k);
+    q.push(mp(k, -1));
+    dbg(k);
     bessieDist[k] = 0;
     while(!q.empty()) {
-        int c = q.front(); q.pop();
-        dbg(c);
-        for (auto x : adj[c]) {
-            if (x != c) {
-                bessieDist[x] = bessieDist[c]+1;
-                q.push(x);
+        auto c = q.front(); q.pop();
+        for (auto x : adj[c.first]) {
+            if (x != c.second) {
+                bessieDist[x] = bessieDist[c.first]+1;
+                q.push(mp(x, c.first));
             }
         }
     }
@@ -85,7 +94,10 @@ void solve() {
 int main() {
 	ios::sync_with_stdio(false);
 	cin.tie(nullptr);
-		
+	
+    freopen("atlarge.in", "r", stdin);
+    freopen("atlarge.out", "w", stdout);
+
 	int t = 1;
 	while (t--) {
 		solve();
