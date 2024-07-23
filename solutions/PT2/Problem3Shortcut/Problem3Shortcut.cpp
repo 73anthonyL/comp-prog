@@ -1,4 +1,3 @@
-#define _GLIBCXX_DEBUG
 #include <iostream>
 #include <algorithm>
 #include <vector>
@@ -14,6 +13,7 @@
 #include <unordered_map>
 #include <bitset>
 #include <iomanip>
+#include <cassert>
 
 using namespace std;
 using ll = long long;
@@ -30,15 +30,19 @@ const ll INF = 250000001;
 
 int n, m; ll T;
 vector<pil> adj[MAXN];
+vector<int> spadj[MAXN];
 priority_queue<pli> pq;
 bool vis[MAXN];
-int from[MAXN], parentsOf[MAXN];
+int from[MAXN]; 
 ll dist[MAXN], passThrough[MAXN];
 
-void dfs_pass(int v) {
-    if (from[v]) {
-        passThrough[from[v]] += passThrough[v];
+ll dfs_sts(int v, int p) {
+    for (auto x : spadj[v]) {
+        if (p != x) {
+            passThrough[v] += dfs_sts(x, v);
+        }
     }
+    return passThrough[v];
 }
 
 void solve() {
@@ -56,43 +60,42 @@ void solve() {
     
     dist[1] = 0;
     pq.push(mp(0, 1));
+    vis[1] = true;
     while (!pq.empty()) {
         auto [z, v] = pq.top();
         pq.pop();
         z = -z;
-        if (vis[v]) continue;
         vis[v] = true;
         for (auto [nei, w] : adj[v]) {
+            if (vis[nei]) continue;
             if (z+w < dist[nei]) {
                 dist[nei] = z+w;
                 from[nei] = v;
                 pq.push(mp(-dist[nei], nei));
-                parentsOf[v]++;
             }
             else if (z+w == dist[nei]) {
                 if (v < from[nei]) {
-                    parentsOf[from[nei]]--;
                     from[nei] = v;
-                    parentsOf[v]++;
                     pq.push(mp(-z-w, nei));
                 }
             }
         }
     }
-
-    for (int i = 1; i <= n; i++) {
-        if (!parentsOf[i]) {
-            dfs_pass(i);
-        }
+    
+    for (int i = 2; i <= n; i++) {
+        spadj[i].emplace_back(from[i]);
+        spadj[from[i]].emplace_back(i);
     }
     
+    dfs_sts(1, -1);
+
     ll ans = 0;
     for (int i = 2; i <= n; i++) {
         if (T < dist[i]) {
             ans = max(ans, passThrough[i]*(dist[i]-T));
         }
     }
-
+    
     cout << ans << "\n";
 }
 // $f(v) = numOfCowsThatPassThrough*distFromBarn\[v\]$
@@ -101,8 +104,8 @@ int main() {
 	ios::sync_with_stdio(false);
 	cin.tie(nullptr);
     
-    /* freopen("shortcut.in", "r", stdin); */
-    /* freopen("shortcut.out", "w", stdout); */
+    freopen("shortcut.in", "r", stdin);
+    freopen("shortcut.out", "w", stdout);
 
 	int t = 1;
 	while (t--) {
