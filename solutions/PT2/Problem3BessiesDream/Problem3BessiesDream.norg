@@ -1,0 +1,14 @@
+* Main Objective: Move from the top left to the bottom right with the least moves possible:
+** Push DP
+*** State Information: Contains Orange Smell or not, is sliding or not, row, column (4D)
+*** State Value: if it is possible to be in this state or not
+*** Order of state-value calculation: BFS??
+**** BFS from the first tile and do push DP. If a specific state has been pushed and hasn't been visited, then visit and BFS from that tile
+*** Algorithm Analysis:
+**** Total # of States: 
+     $1000*1000*2*2 = 4000000 or 4*10^6$
+**** O(N) calculation definitely works for this
+
+
+
+
