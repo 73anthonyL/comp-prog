@@ -1,0 +1,16 @@
+* Milk Pumping (USACO Gold 1833)
+** Objective:
+*** Maximize the *flow rate* of the path divided by the cost of the path
+*** Print $10^6 x the optimal solution$ truncated to an integer
+
+*** Potential Ideas:
+    1. DP value: cost, DP state: knapsack element (th), flow rate
+    2. Use dijkstra's algorithm to calculate the minimum cost for every single possible flow rate
+
+
+**** Observations:
+     - taking extra nodes in a path will not make the answer more optimal. Thus, all paths between 1 and N considered will not contain any cycles
+
+
+
+
