@@ -1,0 +1,14 @@
+* Main Objective: Find out how many different ways to 3-color a tree given some nodes that are pre-colored and some that are not
+*** Brute force solution would just involve 3^uncolored possible configurations and evaluating them 1 by 1
+*** If you think about it, if all the nodes were colored except one of them, you would only have 1-2 options depending on how many neighbors the node has
+**** If you add in another node that is uncolored, then the two depend on their already colored neighbors, and then each other if they are also connected. 
+
+**** Observations/Notes:
+     ~ each node has 3 possible colors
+     ~ likely dynamic programming, if so: topo sort must be involved in the solution
+     ~ You can treat "connected components" of uncolored nodes independently because if they are surrounded by pre-colored nodes then there is no way these nodes can influence each other
+     - because the graph is a tree, these "connected components" are wrapped by the number of leaves and the highest node in this cc's parent 
+
+     DP ON A SUBTREE AND NOT ON INDIVIDUAL NODES ??
+
+
