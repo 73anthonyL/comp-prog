@@ -1,0 +1,17 @@
+* Observations:
+** the MAXN = 300 indicates range DP or some higher complexity algorithm
+** Entire algorithm depends on matching opening and closing tiles with the same number identification 
+** matching greedily might not always be the best option => indication of depends
+*** Evaluating Greedy Strategies:
+**** Try to match colors from the leftmost and rightmost (match the first color 1 with the last color 1 and color everything in between in the canvas to that color
+
+
+
+
+
+
+
+
+
+
+****** 356
