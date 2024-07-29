@@ -1,0 +1,4 @@
+- $(2019201913x+2019201949y) mod 2019201997$ miles walk for cow x and y to see each other
+* Objective: maximise the minimum distance needed for two cows from different groups to travel to each other
+** out of all the possible pairs of numbers that could have to travel to each other in different groups, you need to merge these numbers into the same group. 
+*** We know this because lets say you have partitioned N numbers into K groups. This group is at its worst when its worst pair  (x, y) have to walk to each other. As long as K < N you can always improve on the answer by removing the possibility of them having to walk to each other. This must always be done. 
