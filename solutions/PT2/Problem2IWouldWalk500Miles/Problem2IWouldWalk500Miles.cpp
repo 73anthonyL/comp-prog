@@ -1,4 +1,3 @@
-#define _GLIBCXX_DEBUG
 #include <iostream>
 #include <algorithm>
 #include <vector>
@@ -27,52 +26,48 @@ const int MAXN = 7501;
 const ll INF = 2019201998;
 
 int n, k;
-ll minEdge[MAXN];
-vector<ll> mstEdges;
+ll D[MAXN];
+vector<ll> EW;
 
 ll dist(ll x, ll y) {
     if (x > y) swap(x, y);
-    return (2019201913LL*x+2019201949LL*y) % 2019201997;
+    return (2019201913LL*x+2019201949LL*y) % 2019201997LL;
 }
 
 void solve() {
     cin >> n >> k;
-    
-    for (int i = 1; i <= n; i++) {
-        if (i == 1) {
-            minEdge[i] = INT32_MAX;
-            continue;
-        }
-        minEdge[i] = dist(1, i);
+    D[1] = INF;
+    for (int i = 2; i <= n; i++) {
+        D[i] = dist(1, i); 
     }
 
     for (int i = 0; i < n-1; i++) {
-        int closestV; ll edgeLength = INT32_MAX;
+        ll min_j = -1;
         for (int j = 2; j <= n; j++) {
-            if (minEdge[j] < edgeLength) {
-                edgeLength = minEdge[j];
-                closestV = j;
+            if (min_j == -1 || D[min_j] > D[j]) {
+                min_j = j;
             }
         }
-        mstEdges.emplace_back(edgeLength);
-        minEdge[closestV] = INT32_MAX;
+
+        EW.emplace_back(D[min_j]);
+        D[min_j] = INF;
 
         for (int j = 2; j <= n; j++) {
-            if (minEdge[j] != INT32_MAX) {
-                minEdge[j] = min(minEdge[j], dist(j, closestV));
+            if (D[j] != INF) {
+                D[j] = min(D[j], dist(min_j, j));
             }
         }
     }
 
-    sort(mstEdges.begin(), mstEdges.end(), greater<>());
-    cout << mstEdges[n-k-1] << "\n";
+    sort(EW.begin(), EW.end());
+    cout << EW[n-k] << "\n";
 }
 
 int main() {
 	ios::sync_with_stdio(false);
 	cin.tie(nullptr);
-    freopen("walk.in", "r", stdin);
-    freopen("walk.out", "w", stdout);
+    /* freopen("walk.in", "r", stdin); */
+    /* freopen("walk.out", "w", stdout); */
 
 	int t = 1;
 	while (t--) {
