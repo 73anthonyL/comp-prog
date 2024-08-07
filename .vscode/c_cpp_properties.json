@@ -6,13 +6,10 @@
                 "${workspaceFolder}/**"
             ],
             "defines": [],
-            "macFrameworkPath": [
-                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
-            ],
-            "compilerPath": "/usr/bin/clang",
+            "compilerPath": "/opt/homebrew/bin/g++",
             "cStandard": "c17",
-            "intelliSenseMode": "macos-clang-arm64",
-            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-gcc-x86"
         }
     ],
     "version": 4
