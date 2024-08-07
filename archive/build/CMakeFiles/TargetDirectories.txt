@@ -1,3 +1,0 @@
-/Users/anthony/Programming/build/CMakeFiles/anthony.dir
-/Users/anthony/Programming/build/CMakeFiles/edit_cache.dir
-/Users/anthony/Programming/build/CMakeFiles/rebuild_cache.dir
