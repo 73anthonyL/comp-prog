@@ -20,6 +20,7 @@ using namespace std;
 using ll = long long;
 array<int, MAXN> a;
 int t[4*MAXN];
+int n;
 
 void build(array<int, MAXN> &a, int v, int tl, int tr) {
     if (tl == tr) {
