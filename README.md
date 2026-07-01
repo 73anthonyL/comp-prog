@@ -44,14 +44,3 @@ For quick local testing, I usually compile one file at a time rather than buildi
 | Math | number theory, parity, combinatorics, bit strings |
 | Search | binary search on answer, constructive logic |
 | Implementation | contest templates, input/output patterns, debugging macros |
-
-## Repository upkeep
-
-I try to keep this repo simple and readable:
-
-- Keep reusable code in `snippets/`
-- Keep older solved problems in clearly named archive folders
-- Avoid committing local build files, editor folders, or macOS metadata
-- Use clear commit messages when adding or cleaning solutions
-- Keep the README focused on what the repo is and how to navigate it
-
