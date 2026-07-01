@@ -7,8 +7,9 @@ A lightweight archive of my competitive programming practice, C++ templates, and
 ```text
 .
 ├── snippets/              # Reusable C++ patterns and templates
-└── summer2024archive/     # Archived practice solutions from summer 2024
-└── reboot/                # reboot my algorithmic programming skills (starting summer 2026)
+├── summer2024archive/     # Archived practice solutions from summer 2024
+├── reboot/                # Reboot of my algorithmic programming skills starting summer 2026
+└── WORKLOG.md             # Lightweight daily/weekly practice log
 ```
 
 ## Highlights
@@ -17,12 +18,19 @@ A lightweight archive of my competitive programming practice, C++ templates, and
 - **Focus areas:** data structures, graph/tree algorithms, number theory, binary search, implementation, and contest-style problem solving
 - **Reusable snippets:** DSU, segment tree, binary search on answer, number theory helpers, and a base C++ template
 - **Archived solutions:** a mix of CSES, USACO, and Codeforces-style practice problems
+- **Progress tracking:** a simple work log that records what I practiced, what I learned, and what I want to revisit
 
 ## How to read this repo
 
-This repository is organized as a personal learning archive. The `snippets/` folder contains small reusable building blocks that I can copy into contest solutions. The `summer2024archive/` folder keeps older practice solutions so I can track progress over time.
+This repository is organized as a personal learning archive. The `snippets/` folder contains small reusable building blocks that I can copy into contest solutions. The `summer2024archive/` folder keeps older practice solutions so I can track progress over time. The `reboot/` folder is for newer practice as I rebuild and sharpen my algorithmic programming skills.
 
 Some archived files may reflect practice-state work rather than polished final submissions. I keep them here because the goal of the repo is to show consistent learning and algorithmic growth, not to package a production library.
+
+## Progress log
+
+I keep a lightweight progress log in [`WORKLOG.md`](WORKLOG.md). It is not a formal changelog; it is a simple record of practice sessions, concepts reviewed, problems attempted, and cleanup work done over time.
+
+The goal is to make the repo show consistent effort without overcomplicating it. Entries are intentionally short and focused on actual work completed.
 
 ## Compile a solution
 
