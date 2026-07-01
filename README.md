@@ -45,10 +45,6 @@ For quick local testing, I usually compile one file at a time rather than buildi
 | Search | binary search on answer, constructive logic |
 | Implementation | contest templates, input/output patterns, debugging macros |
 
-## Why this repo exists
-
-I use this repository to document my competitive programming practice and keep a clean record of the algorithms I am learning. It is meant to give profile visitors a quick look at my problem-solving style, C++ experience, and long-term technical development.
-
 ## Repository upkeep
 
 I try to keep this repo simple and readable:
