@@ -4,6 +4,8 @@ A lightweight archive of my competitive programming practice, C++ templates, and
 
 ## What is in this repo
 
+Incoming Quant?
+
 ```text
 .
 ├── snippets/              # Reusable C++ patterns and templates
